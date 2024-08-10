@@ -24,4 +24,10 @@ _Led infrastructure analysis for a major Unified Communication and Collaboration
 _Developed and delivered training on Microsoft Team Foundation Server for the entire organization._
 
 **Applied Research Associates** – Senior Technical Writer\
-_Managed documentation for Department of Defense contracts, including nuclear capability assessments. Led a team that secured multi-million-dollar contracts._
+_Managed documentation for Department of Defense contracts, including nuclear capability assessments. Led a proposal team that secured multi-million-dollar contracts._
+
+{% file src="../.gitbook/assets/Leigh Hutchens CV.pdf" %}
+
+{% embed url="https://www.quinyx.com/product-updates/what-is-product-enablement" %}
+
+{% embed url="https://deciduous-comfort-714.notion.site/Professional-achievements-and-goals-a33d84e7253e4c17a97b530386de39ff" %}

@@ -1,7 +1,15 @@
-# Publish your docs
+# Portfolio
 
-Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
+## Hey there, welcome to my portfolio!
 
-You can publish your site and find related settings from your docs site's homepage.
+I’m Leigh Hutchens, your go-to for all things product enablement and content creation. This portfolio is a peek into the projects I’ve tackled, from leading teams to whipping up world-class documentation. I’m all about turning complex ideas into clear, user-friendly content that hits the mark every time. Take a look around and see what I’ve been up to!
+
+
+
+{% file src="../.gitbook/assets/Leigh Hutchens CV.pdf" %}
+
+{% embed url="https://www.quinyx.com/product-updates/what-is-product-enablement" %}
+
+{% file src="../.gitbook/assets/Leigh Hutchens Notion export.pdf" %}
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
