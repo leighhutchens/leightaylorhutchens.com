@@ -6,10 +6,16 @@ I’m Leigh Hutchens, your go-to for all things product enablement and content c
 
 
 
-{% file src="../.gitbook/assets/Leigh Hutchens CV.pdf" %}
+<figure><img src="../.gitbook/assets/ARA_brochure.jpg" alt=""><figcaption><p>Applied Research Associates</p></figcaption></figure>
 
 {% embed url="https://www.quinyx.com/product-updates/what-is-product-enablement" %}
 
-{% file src="../.gitbook/assets/Leigh Hutchens Notion export.pdf" %}
+{% file src="../.gitbook/assets/Leigh-Taylor-Hutchens-Masters-Thesis-Proposal.pdf" %}
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
+{% file src="../.gitbook/assets/Leigh-Taylor-Hutchens-Masters-Thesis-Chapter-7.pdf" %}
+
+<figure><img src="../.gitbook/assets/Dennis_Mohr.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Mark_Etheridge.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Shawn_Kupfer.png" alt=""><figcaption></figcaption></figure>
