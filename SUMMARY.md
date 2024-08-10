@@ -2,10 +2,11 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Learn more!
 
-* [Resume](getting-started/quickstart.md)
-* [Portfolio](getting-started/publish-your-docs.md)
+* [Resume](learn-more/quickstart.md)
+* [Portfolio](learn-more/publish-your-docs.md)
+* [More stuff about me](learn-more/more-stuff-about-me.md)
 
 ## Basics
 
