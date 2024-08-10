@@ -6,7 +6,7 @@
 
 * [Resume](learn-more/quickstart.md)
 * [Portfolio](learn-more/publish-your-docs.md)
-* [More stuff about me](learn-more/more-stuff-about-me.md)
+* [More about me](learn-more/more-about-me.md)
 
 ## Basics
 

@@ -1,4 +1,12 @@
-# More stuff about me
+---
+icon: face-thinking
+---
+
+# More about me
+
+
+
+> _"To live is the rarest thing in the world. Most people exist, that is all."_ _Oscar WIlde_
 
 Music runs through my veins—whether it's the raw energy of punk, the intricate rhythms of jazz, the crushing riffs of metal, or the introspective vibes of indie, I’m always chasing that perfect soundtrack. My love for music is matched only by my passion for words. With a Master’s Degree in English, I’ve spent years diving into the depths of literature, where I’ve found inspiration, solace, and occasionally a bit of existential dread.
 
