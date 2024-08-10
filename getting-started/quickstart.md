@@ -1,23 +1,27 @@
-# Quickstart
+# Resume
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+## Professional experience
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+**Quinyx AB** – Product Documentation Lead\
+_Managed a team focused on creating multilingual product documentation aligned with branding. Led technical writers and content developers, enhanced team efficiency, and implemented new practices._
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
+**Itiviti AB** – Technical Documentation Product Manager\
+_Subject matter expert for product documentation, providing expertise and managing both internal and external technical information on web platforms._
 
-### Import
+**OneSource Virtual** – Project Manager, Strategic Post-Deployment Consulting\
+_Led user adoption materials group, delivering key technology projects, and developing customer-facing guides and eLearning modules._
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+**Southwest Airlines** – Senior Business Analyst\
+_Guided Agile transformation activities, streamlined a customized Agile Transformation Plan, and provided coaching to Product Support teams._
 
-<div data-full-width="false">
+**Brinker International** – Payment Card Industry Business Analyst\
+_Ensured IT Software Development Lifecycle (SDLC) documentation met PCI compliance standards._
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+**Copart** – Infrastructure Business Analyst\
+_Led infrastructure analysis for a major Unified Communication and Collaboration project._
 
-</div>
+**Ambit Energy** – Senior Technical Writer\
+_Developed and delivered training on Microsoft Team Foundation Server for the entire organization._
 
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+**Applied Research Associates** – Senior Technical Writer\
+_Managed documentation for Department of Defense contracts, including nuclear capability assessments. Led a team that secured multi-million-dollar contracts._
