@@ -1,4 +1,5 @@
 ---
+icon: rocket-launch
 cover: >-
   https://images.unsplash.com/photo-1513346940221-6f673d962e97?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdHxlbnwwfHx8fDE3MjMzMDIzNzd8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
