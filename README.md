@@ -1,5 +1,6 @@
 ---
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: >-
+  https://images.unsplash.com/photo-1513346940221-6f673d962e97?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdHxlbnwwfHx8fDE3MjMzMDIzNzd8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -19,9 +20,7 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Leigh Hutchens is an accomplished Head of Product Enablement with a passion for innovative strategies, customer-centric approaches, and cross-functional leadership. With a rich background in technical documentation and business analysis across industries, Leigh excels in creating scalable enablement programs and fostering mentorship within teams. A skilled content creator and strategist, Leigh's work is driven by data analytics, continuous improvement, and a deep understanding of market trends, making a significant impact on global market expansion and customer success.
 
 ### Jump right in
 
