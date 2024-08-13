@@ -4,9 +4,10 @@
 
 ## Learn more!
 
+* [About me](learn-more/about-me.md)
 * [Resume](learn-more/quickstart/README.md)
-  * [More about me](learn-more/quickstart/more-about-me.md)
   * [Portfolio](learn-more/quickstart/publish-your-docs.md)
+  * [More about me](learn-more/quickstart/more-about-me.md)
 
 ## Basics
 
