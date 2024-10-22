@@ -9,11 +9,11 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
 ---
@@ -23,3 +23,4 @@ layout:
 Leigh Hutchens is an accomplished Product Enablement Lead with a passion for innovative strategies, customer-centric approaches, and cross-functional leadership. With a rich background in technical documentation and business analysis across industries, Leigh excels in creating scalable enablement programs and fostering mentorship within teams. A skilled content creator and strategist, Leigh's work is driven by data analytics, continuous improvement, and a deep understanding of market trends, making a significant impact on global market expansion and customer success.
 
 <figure><img src=".gitbook/assets/Headshot.jpeg" alt="" width="237"><figcaption></figcaption></figure>
+

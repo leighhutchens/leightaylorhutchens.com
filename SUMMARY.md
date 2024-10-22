@@ -4,11 +4,11 @@
 
 ## Learn more!
 
-* [Product Enablment blog](learn-more/product-enablment-blog/README.md)
-  * [Ensuring evergreen content:](learn-more/product-enablment-blog/ensuring-evergreen-content.md)
-* [About me](learn-more/about-me.md)
 * [Portfolio](learn-more/publish-your-docs.md)
 * [Resume](learn-more/quickstart.md)
+* [About me](learn-more/about-me.md)
+* [Product Enablment blog](learn-more/product-enablment-blog/README.md)
+  * [Ensuring evergreen content:](learn-more/product-enablment-blog/ensuring-evergreen-content.md)
 
 ## Basics
 
