@@ -2,20 +2,7 @@
 icon: rocket-launch
 cover: .gitbook/assets/tyler-van-der-hoeven-_ok8uVzL2gI-unsplash.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
+layout: editorial
 ---
 
 # Welcome
