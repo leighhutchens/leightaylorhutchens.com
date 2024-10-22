@@ -1,6 +1,6 @@
 ---
 icon: rocket-launch
-cover: .gitbook/assets/Test for gitbook.png
+cover: .gitbook/assets/tyler-van-der-hoeven-_ok8uVzL2gI-unsplash.jpg
 coverY: 0
 layout:
   cover:
