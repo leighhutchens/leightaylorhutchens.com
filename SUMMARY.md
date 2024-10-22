@@ -9,10 +9,7 @@
 * [Portfolio](learn-more/publish-your-docs.md)
 * [Product Enablment blog](learn-more/product-enablment-blog/README.md)
   * [What is product enablement?](learn-more/product-enablment-blog/what-is-product-enablement.md)
-
-***
-
-* [Ensuring evergreen content](ensuring-evergreen-content.md)
+  * [Ensuring evergreen content](learn-more/product-enablment-blog/ensuring-evergreen-content.md)
 
 ## Basics
 
