@@ -4,9 +4,9 @@
 
 ## Learn more!
 
-* [Portfolio](learn-more/publish-your-docs.md)
-* [Resume](learn-more/quickstart.md)
 * [About me](learn-more/about-me.md)
+* [Curriculum vitae](learn-more/quickstart.md)
+* [Portfolio](learn-more/publish-your-docs.md)
 * [Product Enablment blog](learn-more/product-enablment-blog/README.md)
   * [Ensuring evergreen content:](learn-more/product-enablment-blog/ensuring-evergreen-content.md)
 
